@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	excel "github.com/eric01-tech/go-tools/pkg/excel"
+	excel "github.com/eric-tech01/go-tools/pkg/excel"
 	"github.com/xuri/excelize/v2"
 )
 

@@ -1,4 +1,4 @@
-module github.com/eric01-tech/go-tools
+module github.com/eric-tech01/go-tools
 
 go 1.20
 
